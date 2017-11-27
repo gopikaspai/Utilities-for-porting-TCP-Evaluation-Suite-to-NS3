@@ -1,0 +1,9 @@
+1. Traffic Generation Example : 
+./waf --run "scratch/test-traffic-tcpeval HTTP" 
+then navigate to netanim folder and open the xml file
+
+2. Tmix test
+run shell file
+
+3. Graph and Stats
+run shell file
